@@ -2,7 +2,7 @@
 
 I'm a Nutritionist turned Data Analyst, currently completing a Master's in Data Science at Universidad Complutense de Madrid.
 
-My background is in clinical practice and research — four years working as an auxiliary researcher and seeing patients. When I decided to move into data, health felt like the natural space to work in. I understand the domain, I know what the data represents, and I know what questions are actually worth asking.
+My background is in clinical practice and research, four years working as an auxiliary researcher and seeing patients. When I decided to move into data, health felt like the natural space to work in. I understand the domain, I know what the data represents, and I know what questions are actually worth asking.
 
 Right now I'm building technical skills across SQL, Python, and data visualization, with a focus on health, pharma, and financial datasets.
 
