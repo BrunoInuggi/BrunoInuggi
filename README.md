@@ -9,6 +9,13 @@ Right now I'm building technical skills across SQL, Python, and data visualizati
 ---
 
 ## Projects
+### 🩺 [Cribado No Invasivo de Hígado Graso (MASLD)](https://github.com/BrunoInuggi/cribado-masld)
+
+**Python · Machine Learning · Streamlit**
+
+Herramienta de cribado de esteatosis hepática para la consulta nutricional (TFM). Estima el grado de hígado graso desde variables clínicas usando machine learning sobre datos NHANES, y se despliega como app web. Incluye interpretabilidad (SHAP) y validación clínica.
+
+🔗 [Probar la app](https://cribado-masld-fycc5vku6nsadxrsv5ae88.streamlit.app)
 
 ### 🔬 [FDA Adverse Drug Events Analysis](https://github.com/BrunoInuggi/fda-adverse-drug-events-analysis)
 **SQL · Snowflake**
