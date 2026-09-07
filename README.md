@@ -2,7 +2,7 @@
 
 I'm a Nutritionist turned Data Scientist, with a Master's in Data Science from Universidad Complutense de Madrid.
 
-My background is in clinical practice and research — four years working as an auxiliary researcher and seeing patients. When I moved into data, health felt like the natural space to work in: I understand the domain, I know what the data represents, and I know what questions are actually worth asking.
+My background is in clinical practice and research - four years working as an auxiliary researcher and seeing patients. When I moved into data, health felt like the natural space to work in: I understand the domain, I know what the data represents, and I know what questions are actually worth asking.
 
 I work with Python, SQL, machine learning and data visualization, with a focus on health and clinical datasets. My most recent project is a non-invasive screening tool for fatty liver disease (MASLD) - a deployed ML Web App that estimates liver steatosis from clinical data, built as my Master's thesis.
 
