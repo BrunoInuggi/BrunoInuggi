@@ -1,6 +1,6 @@
 # Hi, I'm Bruno 👋
 
-I'm a Nutritionist turned Data Scientist, with a Master's in Data Science from Universidad Complutense de Madrid.
+I'm a Nutritionist with a Master's in Data Science from Universidad Complutense de Madrid.
 
 My background is in clinical practice and research - four years working as an auxiliary researcher and seeing patients. When I moved into data, health felt like the natural space to work in: I understand the domain, I know what the data represents, and I know what questions are actually worth asking.
 
